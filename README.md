@@ -2,25 +2,43 @@
 
 Build a weather app in react js using Open Weather API.
 
+
+### Features
+- Real-time weather by city search
+- Temperature, Humidity, wind speed
+- Responsive UI
+- Clean and Modern Design
+
+### Tech Stack
+- React.js
+- OpenWeather API
+- CSS3
+
 ## Follow Below Instructions:
 
-#### Use This command in cmd or terminal to download starter-code file:
-1. git clone 'Repo Link'
+### Installation
+git clone https://github.com/webdev-anup/React-Weather-app.git
 
-2. Put your API Key in Weather.js File.
+### install dependencies 
+npm i
 
-3. Then do npm install & npm start
+### Add your API key weather.js
+REACT_APP__API_KEY = your_api_key
 
-#### You can follow Tutorial from channel.
-https://www.youtube.com/@shivanshvasu
+### Run the app
+npm start
 
--- In the project directory, you can run:
+## 🚀 Live Demo
+https://react-weather-app-six-iota.vercel.app/
 
-### `npm start`
+### ScreenShot
+<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/497e3f06-3ff1-4a26-9aac-982d0a09574d" />
 
--- Runs the app in the development mode.<br />
--- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Contact
-Comment on Channel: 'https://www.youtube.com/@shivanshvasu'
-Or mail at 'theshivanshvasu@gmail.com' for any queries.
+Credit - https://github.com/ShivaMani02
+
+
+
+
+
+  
