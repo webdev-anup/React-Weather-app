@@ -1,44 +1,29 @@
-# GET WEATHER AROUND: React JS Project
+# 🌤️ Get Weather Around - React JS Project
+A responsive weather application built with React.js using the OpenWeather API.
 
-Build a weather app in react js using Open Weather API.
-
-
-### Features
-- Real-time weather by city search
-- Temperature, Humidity, wind speed
-- Responsive UI
+### ✨ Features
+- Real-time weather search by city
+- Displays Temperature, Humidity & Wind Speed
+- Fully Responsive UI
 - Clean and Modern Design
 
-### Tech Stack
+### 🛠️ Tech Stack
 - React.js
 - OpenWeather API
 - CSS3
 
-## Follow Below Instructions:
+### ⚙️ Installation & Setup
 
-### Installation
+1. Clone the repository
+```bash
 git clone https://github.com/webdev-anup/React-Weather-app.git
 
-### install dependencies 
-npm i
-
-### Add your API key weather.js
-REACT_APP__API_KEY = your_api_key
-
-### Run the app
-npm start
-
-## 🚀 Live Demo
+🚀 Live Demo
 https://react-weather-app-six-iota.vercel.app/
 
-### ScreenShot
-<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/497e3f06-3ff1-4a26-9aac-982d0a09574d" />
+ScreenShot:
+<img width="1905" height="916" alt="image" src="https://github.com/user-attachments/assets/6036aa32-e487-42c6-82c0-4d53089de2bd" />
 
 
-Credit - https://github.com/ShivaMani02
-
-
-
-
-
-  
+Credit
+Original repository by ShivaMani02
